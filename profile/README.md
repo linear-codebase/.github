@@ -1,1 +1,1 @@
-![Linear Codebase Banner](https://github.com/linear-codebase/.github/blob/main/banner.png)
+![Linear Codebase Banner](https://github.com/linear-codebase/.github/blob/main/images/banner.png)
